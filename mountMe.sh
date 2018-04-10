@@ -1,6 +1,6 @@
 # add to /root (or User directory)
 # make executable (chmod +x [file])
-# execute with "$sh mountMe.sh"
+# execute with "$sh mountMe.sh" after rebooting WebServ
 
 # restarts networking service (or DNS is broken | can't ping google.com)
 # mounts 3 NFS locations
